@@ -22,4 +22,4 @@ Flask (optional, for API deployment)
 
 
 
-# the dataset is taken fro kaggle and is not uploaded here because of size issue.
+//the dataset is taken from kaggle and is not uploaded here because of size issue.
